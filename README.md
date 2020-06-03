@@ -1,7 +1,7 @@
 # SQL
 
 ---
-## 2020.06.04
+## 0604
 ### Programmers 
 * https://programmers.co.kr/learn/challenges
 * [SELECT](https://github.com/soo-ni/SQL/blob/master/Programmers/SELECT.sql)
